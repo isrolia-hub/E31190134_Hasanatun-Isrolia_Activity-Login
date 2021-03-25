@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">activity login</string>
+    <string name="form_login">Form Login</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">LogIn</string>
+    <string name="login_form">Login Form</string>
+    <string name="daftar_jika_belum_memiliki_akun">Daftar jika belum memiliki akun</string>
+    <string name="todo">TODO</string>
+</resources>
